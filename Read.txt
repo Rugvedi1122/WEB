@@ -1,0 +1,35 @@
+jQuery-
+jQuery is an open-sourced JavaScript library that simplifies creation and navigation of web applications. Specifically, jQuery simplifies HTML Document Object Model (DOM) manipulation, Asynchronous JavaScript and XML (Ajax) and event handling.
+JavaScript
+is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data
+PHP: Hypertext Preprocessor.
+PHP can generate dynamic page content.
+PHP can create, open, read, write, delete, and close files on the server.
+PHP can collect form data.
+PHP can send and receive cookies.
+PHP can add, delete, modify data in your database.
+PHP can be used to control user-access.
+PHP can encrypt data.
+client-side -development gathers input from users. For example, developers can use JavaScript to create forms that collect user input.
+Server side- examples-
+Meanwhile, server-side development processes this input. For example, developers can use PHP to connect a database to a website and send user-inputted data to the database.
+HTML-
+HTML uses browser cache memory as temporary storage.
+HTML does not have support for video and audio
+HTML5-
+HTML5 offers multiple storage options, such as an SQL database, application cache, and web storage
+HTML5 supports both video and audio.
+
+Row Span-
+rowspan attribute in HTML specifies the number of rows a cell should span.
+Col span-
+specifies the number of columns a cell should span
+
+Marq tag-
+The <marquee> HTML element is used to insert a scrolling area of text.
+
+namespace-
+Namespace is a context for identifiers, a logical grouping of names used in a program. Within the same context and same scope, an identifier must uniquely identify an entity. In an operating system a directory is a namespace.
+
+API-
+Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
